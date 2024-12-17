@@ -1,0 +1,11 @@
+{
+    "name": "kimit/crud",
+    "description": "this for student at g195 at kimit",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kimit\\Crud\\": "src/"
+        }
+    },
+    "require": {}
+}
